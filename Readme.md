@@ -56,7 +56,7 @@ The API will run on **http://localhost:5000**.
   "username": "anu123",
   "email": "anu@example.com",
   "password": "password123",
-  "fullName": "Anu Kumar",
+  "fullName": "Anu Kuntal",
   "gender": "Male",
   "dob": "2002-05-15",
   "country": "India"
@@ -100,7 +100,7 @@ The API will run on **http://localhost:5000**.
 {
   "_id": "67ae163bbaa32bb6eff99af3",
   "username": "anu123",
-  "fullName": "Anu Kumar",
+  "fullName": "Anu Kuntal",
   "gender": "Male",
   "dob": "2002-05-15",
   "country": "India"
